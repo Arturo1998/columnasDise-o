@@ -1,0 +1,32 @@
+#envoltorio {
+  width: 960px;
+  height: 400px;
+  background-color: darkgray;
+  background: linear-gradient(90deg, rgb(0, 255, 229) 650px, rgba(0,212,255,1) 250px);
+  margin: 0 auto;
+  background-size: cover;
+
+}
+
+main {
+    float: left;
+    width: 650px;
+    margin: 0 20px;
+    height: 375px;
+}
+
+#extras {
+  float: left;
+  width: 250px;
+  margin: 0 20px 0 0;
+}
+
+footer {
+  clear: left;
+  width: 960px;
+  background-color: gray;
+}
+
+header{
+  background-color: gray;
+}
